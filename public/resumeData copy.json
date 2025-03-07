@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"개발자 손일영",
+    "description":"웹개발자로 14년의 다양한 경력을 보유하고 있으며, DBMS 및 다양한 프로그래밍 언어와 프레임워크에 능숙합니다. 주요 기술로는 Oracle, REACT, VUE3, Java, JSP, iBATIS, Maria DB, Spring Boot, PostgreSQL, Oracle DB 등이 있습니다. 팀원들과 협업하여 문제를 해결하고 새로운 기술을 학습하는 것을 즐깁니다. 업계에서 인정받는 프로젝트 경험으로 소통 능력과 문제 해결 능력을 갖췄습니다. 성실하고 책임감이 강한 저는 항상 최선을 다해 일을 처리하고 성과를 이루어냅니다. 기술력을 끊임없이 향상시키며 항상 도전하는 자세로 업무에 임하고 있습니다. 협업을 통해 팀의 목표를 달성하고, 성공적인 프로젝트를 위해 최선을 다할 것을 약속드립니다",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"문자나 이메일로 연락주시면 바로 연락드리겠습니다.",
+    "email": "iys4906@gmail.com",
+    "phone": "010-2714-4906",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"주소 : 서울시 송파구 거여동",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
