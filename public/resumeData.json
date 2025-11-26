@@ -144,31 +144,37 @@
     "projects": [
       {
         "title":"Kcc인테리어 솔루션",
-        "category":"Kcc인테리어 솔루션",
+        "category":"Kcc",
         "image":"01.jpg",
-        "url":""
+        "url":"https://hcc.kccglass.co.kr/login"
       },
       {
+        "title":"Kcc인테리어 파트너포탈",
+        "category":"Kcc",
+        "image":"20.jpg",
+        "url":"https://partner.kccglass.co.kr"
+      },   
+      {
         "title":"Sk케미칼 정산관리",
-        "category":"Sk케미칼 정산관리",
+        "category":"Sk케미칼",
         "image":"02.jpg",
         "url":""
       },
       {
         "title":"XBT 교육생",
-        "category":"XBT 교육생",
+        "category":"관세청/JUN",
         "image":"03.jpg",
         "url":""
       },
       {
         "title":"XBT 관리자",
-        "category":"XBT 관리자",
+        "category":"관세청/JUN",
         "image":"04.jpg",
         "url":""
       },
       {
         "title":"켐토피아 리스크프리",
-        "category":"켐토피아 리스크프리",
+        "category":"켐토피아",
         "image":"05.jpg",
         "url":""
       },
@@ -176,35 +182,35 @@
         "title":"부동산114",
         "category":"부동산114",
         "image":"06.jpg",
-        "url":"https://www.r114.com/"
+        "url":"https://www.r114.com"
       },
       {
         "title":"기가지니 IOT AILIFT",
-        "category":"기가지니 IOT AILIFT",
+        "category":"현대엘레베이터",
         "image":"07.jpg",
         "url":""
       },
       {
         "title":"Kshopping",
-        "category":"Kshopping",
+        "category":"KT",
         "image":"08.jpg",
-        "url":"https://www.kshop.co.kr/"
+        "url":"https://www.kshop.co.kr"
       },
       {
         "title":"안랩 MDS",
-        "category":"안랩 MDS",
+        "category":"안랩",
         "image":"09.jpg",
         "url":""
       },
       {
         "title":"안랩 EPS",
-        "category":"안랩 EPS",
+        "category":"안랩",
         "image":"10.jpg",
         "url":""
       },
       {
         "title":"안랩 핵실드",
-        "category":"안랩 핵실드",
+        "category":"안랩",
         "image":"11.jpg",
         "url":""
       },
@@ -212,49 +218,49 @@
         "title":"초록마을",
         "category":"초록마을",
         "image":"12.jpg",
-        "url":"https://www.choroc.com/"
+        "url":"https://www.choroc.com"
       },
       {
         "title":"큐브릿지 오피스플러스",
-        "category":"큐브릿지 오피스플러스",
+        "category":"큐브릿지",
         "image":"13.jpg",
-        "url":"https://www.officeplus.com/"
+        "url":"https://www.officeplus.com"
       },
       {
         "title":"큐브릿지 토스몰",
-        "category":"큐브릿지 토스몰",
+        "category":"큐브릿지",
         "image":"14.jpg",
-        "url":"https://tos.officeplus.com/"
+        "url":"https://tos.officeplus.com"
       },
       {
         "title":"스마일게이트 게임존",
-        "category":"스마일게이트 게임존",
+        "category":"스마일게이트",
         "image":"15.jpg",
-        "url":"https://www.smilegate.com/"
+        "url":"https://www.smilegate.com"
       },
       {
         "title":"특허청 특허넷",
-        "category":"특허청 특허넷",
+        "category":"특허청",
         "image":"16.jpg",
-        "url":"https://patents-net.com/"
+        "url":"https://patents-net.com"
       },
       {
-        "title":"농어촌공사 농어촌연구원 R&D정보통합관리시스템 구축사업",
-        "category":"농어촌공사 농어촌연구원 R&D정보통합관리시스템 구축사업",
+        "title":"농어촌연구원 R&D정보통합관리시스템",
+        "category":"농어촌연구원",
         "image":"17.jpg",
-        "url":""
+        "url":"https://rri.ekr.or.kr"
       },
       {
         "title":"농어촌공사 농지은행",
-        "category":"농어촌공사 농지은행",
+        "category":"농어촌공사",
         "image":"18.jpg",
-        "url":"https://www.fbo.or.kr/index.do/"
+        "url":"https://www.fbo.or.kr/index.do"
       },
       {
         "title":"농어촌공사 농지연금",
-        "category":"농어촌공사 농지연금",
+        "category":"농어촌공사",
         "image":"19.jpg",
-        "url":"https://www.fbo.or.kr/index.do/"
+        "url":"https://www.fbo.or.kr/index.do"
       }                     
 
 
