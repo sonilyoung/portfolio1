@@ -24,7 +24,7 @@ class Portfolio extends Component {
                     {projects.title}
                   </a>                              
                 ) 
-                : (<a href="javascript:;alert('사이트 정보가 없습니다.');">{projects.title}</a>)
+                : (<a href="javascript:;alert('폐쇠망 개발로 사이트 정보가 제한되어 있습니다');">{projects.title}</a>)
               }
             </div>
           </div>
