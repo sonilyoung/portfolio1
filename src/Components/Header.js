@@ -11,7 +11,7 @@ const PARTICLE_TYPES = [
   "thick", 
   "fountain", 
   //"ball",
-  "cobweb", // 추가: 일반적으로 많이 사용되는 타입
+  //"cobweb", // 추가: 일반적으로 많이 사용되는 타입 - 동작안함
 ];
 
 const Header = (props) => {
