@@ -27,3 +27,10 @@ npm start
 ```shell
 npm run build
 ```
+#### 이메일 정송을 위한 추가 설치
+#### npm install axios --force
+npm install emailjs-com --force
+npm install @emailjs/browser --force
+
+#### 문법오류로 최신버전 설치 컴파일 오류가 발생함
+npm install react-scripts@latest --force

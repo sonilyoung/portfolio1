@@ -8,9 +8,7 @@ jQuery(document).ready(function($) {
 
       var target = this.hash,
         $target = $(target);
-
       console.log('타겟1::::', target);
-
       console.log('타겟2::::', $target);
 
       $("html, body")
@@ -19,7 +17,7 @@ jQuery(document).ready(function($) {
           {
             scrollTop: $target.offset().top
           },
-          800,
+          1000,
           "swing",
           function() {
             window.location.hash = target;
@@ -79,6 +77,7 @@ jQuery(document).ready(function($) {
       randomize: false
     });
 
+    /*
     $("form#contactForm button.submit").click(function() {
       $("#image-loader").fadeIn();
 
@@ -93,7 +92,6 @@ jQuery(document).ready(function($) {
 
       window.location = `https://outlook.office.com/mail/deeplink/compose?to=iys4906@gmail.com&subject=${subject}&body=${body}&cc=${cc}`;
 
-      /*
       var data =
         "contactName=" +
         contactName +
@@ -103,11 +101,9 @@ jQuery(document).ready(function($) {
         contactSubject +
         "&contactMessage=" +
         contactMessage;
-      */
 
       //window.location = `mailto:iys4906@gmail.com?subject==?UTF-8?B?${subjectBase64}?=&body==?UTF-8?B?${bodyBase64}?=&cc=${contactEmail}`;
       
-      /*
       $.ajax({
         type: "POST",
         url: "inc/sendEmail.php",
@@ -128,8 +124,8 @@ jQuery(document).ready(function($) {
           }
         }
       });
-      */
       return false;
     });
+    */
   }, time);
 });
