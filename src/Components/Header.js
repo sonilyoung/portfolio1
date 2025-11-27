@@ -122,7 +122,8 @@ const Header = (props) => {
           <Fade bottom duration={2000}>
             <ul className="social">
               <a className="smoothscroll button btn project-btn" href="#portfolio">
-                <i className="fa fa-book"></i>Project
+                {/** css에 아이콘이 정의되어있음*/}
+                <i className="fa fa-file-o"> Project</i>
               </a>
               {/** 주석
               <a href={github} className="button btn github-btn">

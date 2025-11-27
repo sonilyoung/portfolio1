@@ -19,9 +19,9 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"goole",
-        "url":"https://outlook.office.com/mail/deeplink/compose?to=iys4906@gmail.com",
-        "className":"fa fa-google-plus"
+        "name":"",
+        "url":"",
+        "className":""
       }
     ]
   },
@@ -61,7 +61,7 @@
         "description":"오프라인으로 이루어진 인테리어 업무 상담신청(온라인/전화) - 상담 - 실측 - 견적 - 계약 - 주문/배송 - 시공 - AS를 온라인 솔루션으로 개발진행으로 인한 현업의 업무편의성 개선"
       },
       {
-        "company":"에스케이케미칼(SK CHEMICAL)",
+        "company":"SK 케미칼",
         "title":"개발",
         "years":"2024. 01 ~ 2024. 07",
         "description":"SK케미칼, SK디스커버리, SK멀티유닐티리에서 법인카드, 출장비, 기타비용, 타 시스템비용, 세금계산서, 결재시스템, 예산시스템, 관리자시스템 및 비용정산에 관련된 프로그램에 해당되는 기능 개선, 개발 및 유지보수 진행"
@@ -121,6 +121,10 @@
         "level":"100%"
       },     
       {
+        "name":"Typescript",
+        "level":"100%"
+      },         
+      {
         "name":"Jquery",
         "level":"100%"
       },          
@@ -129,9 +133,29 @@
         "level":"100%"
       },
       {
-        "name":"thymeleaf",
+        "name":"thyme leaf",
         "level":"100%"
       },      
+      {
+        "name":"spring boot",
+        "level":"100%"
+      },            
+      {
+        "name":"Spring framework",
+        "level":"100%"
+      },
+      {
+        "name":"전자정부 framework",
+        "level":"100%"
+      },
+      {
+        "name":"any framework",
+        "level":"100%"
+      },      
+      {
+        "name":"play framework",
+        "level":"100%"
+      },            
       {
         "name":"redis",
         "level":"100%"
@@ -147,27 +171,15 @@
       {
         "name":"rabbit mq",
         "level":"100%"
-      },                 
-      {
-        "name":"spring boot",
-        "level":"100%"
-      },            
-      {
-        "name":"Spring framework",
-        "level":"100%"
-      },
-      {
-        "name":"전자정부 framework",
-        "level":"100%"
-      },
-      {
-        "name":"형상관리(git, svn, cvs)",
-        "level":"100%"
-      },
+      },         
       {
         "name":"jenkins",
         "level":"100%"
-      }        
+      },         
+      {
+        "name":"형상관리(git, svn, cvs)",
+        "level":"100%"
+      }
     ]
   },
   "portfolio":{
@@ -179,7 +191,7 @@
         "url":""
       },
       {
-        "title":"Kcc인테리어 파트너포탈",
+        "title":"Kcc인테리어 파트너포탈<br>Kcc인테리어 파트너포탈 cms",
         "category":"Kcc",
         "image":"20.jpg",
         "url":"https://partner.kccglass.co.kr"
@@ -203,17 +215,11 @@
         "url":""
       },
       {
-        "title":"켐토피아 리스크프리",
+        "title":"리스크프리<br>리스크프리관리자",
         "category":"켐토피아",
         "image":"05.jpg",
         "url":""
       },
-      {
-        "title":"켐토피아 리스크프리 관리자",
-        "category":"켐토피아",
-        "image":"05.jpg",
-        "url":""
-      },      
       {
         "title":"부동산114",
         "category":"부동산114",
@@ -233,7 +239,7 @@
         "url":""
       },
       {
-        "title":"Kshopping",
+        "title":"Kshopping<br>Kshopping Cms",
         "category":"KT",
         "image":"08.jpg",
         "url":"https://www.kshop.co.kr"
@@ -275,17 +281,11 @@
         "url":"https://tos.officeplus.com"
       },
       {
-        "title":"스마일게이트 게임존",
+        "title":"스마일게이트 게임존<br>스마일게이트 게임존 관리자",
         "category":"스마일게이트",
         "image":"15.jpg",
         "url":"https://www.smilegate.com"
       },
-      {
-        "title":"스마일게이트 게임존 관리자",
-        "category":"스마일게이트",
-        "image":"15.jpg",
-        "url":""
-      },      
       {
         "title":"특허청 특허넷",
         "category":"특허청",

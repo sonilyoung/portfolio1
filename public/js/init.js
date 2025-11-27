@@ -55,7 +55,7 @@ jQuery(document).ready(function($) {
       var nav = $("#nav-wrap");
 
       if (y > h * 0.2 && y < h && $(window).outerWidth() > 768) {
-        nav.fadeOut("fast");
+        //nav.fadeOut("fast");
       } else {
         if (y < h * 0.2) {
           nav.removeClass("opaque").fadeIn("fast");
