@@ -123,7 +123,7 @@ const Header = (props) => {
             <ul className="social">
               <a className="smoothscroll button btn project-btn" href="#portfolio">
                 {/** css에 아이콘이 정의되어있음*/}
-                <i className="fa fa-file-o"> Project</i>
+                <i className="fa fa-th-list"> Project</i>
               </a>
               {/** 주석
               <a href={github} className="button btn github-btn">
