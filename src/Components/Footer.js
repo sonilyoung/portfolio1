@@ -41,6 +41,12 @@ class Footer extends Component {
               <i className="icon-up-open"></i>
             </a>
           </div>
+
+          <div id="go-top-floating">
+            <a className="smoothscroll" title="Back to Top" href="#home">
+              <i className="">top</i>
+            </a>
+          </div>          
         </div>
       </footer>
     );
