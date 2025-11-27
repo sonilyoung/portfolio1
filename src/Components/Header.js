@@ -41,7 +41,12 @@ const Header = (props) => {
   const project = props.data.project;
   const github = props.data.github;
   const name = props.data.name;
-  const description = props.data.description;
+
+  //const description = props.data.description.replace(/<br\s*\/?>/gi, ' ');
+  //const description = props.data.description;
+
+  // dangerouslySetInnerHTML 객체 생성
+  const titleHtml = { __html: props.data.description };  
 
   return (
     <header id="home">
@@ -116,7 +121,7 @@ const Header = (props) => {
             <h1 className="responsive-headline">{name}</h1>
           </Fade>
           <Fade bottom duration={1200}>
-            <h3>{description}.</h3>
+            <h3 dangerouslySetInnerHTML={titleHtml}></h3>
           </Fade>
           <hr />
           <Fade bottom duration={2000}>
