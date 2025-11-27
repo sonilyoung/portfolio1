@@ -1,8 +1,8 @@
 /*Portfolio.js에 이미지 사이즈 고정
  portfolio-item 내의 이미지 컨테이너 또는 이미지 자체에 적용 */
 .portfolio-item .item-wrap img {
-  width: 300px;  /* 원하는 너비 (예: 300px) */
-  height: 200px; /* 원하는 높이 (예: 200px) */
+  width: 500px;  /* 원하는 너비 (예: 300px) */
+  height: 125px; /* 원하는 높이 (예: 200px) */
   object-fit: cover; /* 이미지가 잘리지 않고 비율을 유지하며 컨테이너를 채우도록 함 */
   display: block; /* 가로 중앙 정렬 및 여백 문제 방지 */
   margin: 0 auto; /* 가로 중앙 정렬 */
@@ -10,5 +10,5 @@
 
 /* 이미지 아래 텍스트가 깨지지 않도록 여백 조절 */
 .portfolio-item .item-wrap {
-  padding-bottom: 10px; /* 이미지와 텍스트 사이 여백 */
+  padding-bottom: 5px; /* 이미지와 텍스트 사이 여백 */
 }

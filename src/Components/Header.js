@@ -91,8 +91,14 @@ const Header = (props) => {
           </li>
 
           <li>
+            <a className="smoothscroll" href="#skills">
+              Skills
+            </a>
+          </li>          
+
+          <li>
             <a className="smoothscroll" href="#portfolio">
-              Works
+              Project
             </a>
           </li>
 

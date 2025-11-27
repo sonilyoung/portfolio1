@@ -49,9 +49,15 @@
     ],
     "work":[
       {
-        "company":"㈜와이앤씨스마트앱스",
+        "company":"인포뱅크",
         "title":"분석설계 및 개발",
-        "years":"2024. 07 ~ 재직중",
+        "years":"2025. 04 ~ 재직중",
+        "description":"인포뱅크 솔루션 채팅상담 솔루션을 기반으로 고객 사이트에 채팅상담 솔루션 개발진행"
+      },      
+      {
+        "company":"와이앤씨스마트앱스",
+        "title":"분석설계 및 개발",
+        "years":"2024. 07 ~ 2024. 04",
         "description":"오프라인으로 이루어진 인테리어 업무 상담신청(온라인/전화) - 상담 - 실측 - 견적 - 계약 - 주문/배송 - 시공 - AS를 온라인 솔루션으로 개발진행으로 인한 현업의 업무편의성 개선"
       },
       {
@@ -99,11 +105,11 @@
         "level":"100%"
       },
       {
-        "name":"DBMS",
+        "name":"DBMS(oracle, mariadb, mysql, postgresql, mssql)",
         "level":"100%"
       },      
       {
-        "name":"VueJs",
+        "name":"VueJs 3.0",
         "level":"100%"
       },
       {
@@ -127,6 +133,22 @@
         "level":"100%"
       },      
       {
+        "name":"redis",
+        "level":"100%"
+      },  
+      {
+        "name":"docker",
+        "level":"100%"
+      },  
+      {
+        "name":"aws",
+        "level":"100%"
+      },             
+      {
+        "name":"rabbit mq",
+        "level":"100%"
+      },                 
+      {
         "name":"spring boot",
         "level":"100%"
       },            
@@ -137,16 +159,24 @@
       {
         "name":"전자정부 framework",
         "level":"100%"
-      }
+      },
+      {
+        "name":"형상관리(git, svn, cvs)",
+        "level":"100%"
+      },
+      {
+        "name":"jenkins",
+        "level":"100%"
+      }        
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Kcc인테리어 솔루션",
-        "category":"Kcc",
-        "image":"01.jpg",
-        "url":"https://hcc.kccglass.co.kr/login"
+        "title":"skt채팅상담 솔루션",
+        "category":"skt",
+        "image":"22.jpg",
+        "url":""
       },
       {
         "title":"Kcc인테리어 파트너포탈",
@@ -179,11 +209,23 @@
         "url":""
       },
       {
+        "title":"켐토피아 리스크프리 관리자",
+        "category":"켐토피아",
+        "image":"05.jpg",
+        "url":""
+      },      
+      {
         "title":"부동산114",
         "category":"부동산114",
         "image":"06.jpg",
         "url":"https://www.r114.com"
       },
+      {
+        "title":"부동산114 관리자",
+        "category":"부동산114",
+        "image":"21.jpg",
+        "url":"https://smartr.r114.com/login"
+      },      
       {
         "title":"기가지니 IOT AILIFT",
         "category":"현대엘레베이터",
@@ -239,13 +281,19 @@
         "url":"https://www.smilegate.com"
       },
       {
+        "title":"스마일게이트 게임존 관리자",
+        "category":"스마일게이트",
+        "image":"15.jpg",
+        "url":""
+      },      
+      {
         "title":"특허청 특허넷",
         "category":"특허청",
         "image":"16.jpg",
         "url":"https://patents-net.com"
       },
       {
-        "title":"농어촌연구원 R&D정보통합관리시스템",
+        "title":"농어촌연구원<br>R&D정보통합관리시스템",
         "category":"농어촌연구원",
         "image":"17.jpg",
         "url":"https://rri.ekr.or.kr"
