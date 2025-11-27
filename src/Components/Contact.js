@@ -214,7 +214,7 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
+                <h4>Name & Address</h4>
                 <p className="address">
                   {name}
                   <br />
@@ -222,9 +222,10 @@ class Contact extends Component {
                   <br />
                   {city}
                   <br />
-                  <span>email : {email}</span>
+                  <h4>Email & Phone</h4>
+                  <span>이메일 : {email}</span>
                   <br />
-                  <span>phone : {phone}</span>
+                  <span>연락처 : {phone}</span>
                 </p>
               </div>
             </aside>
