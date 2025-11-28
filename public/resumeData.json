@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"이름 : 손일영",
+    "name":"손일영",
     "description":"웹개발자로 14년의 다양한 경력을 보유하고 있으며, <br> DBMS 및 다양한 프로그래밍 언어와 프레임워크에 능숙합니다",
     "image":"profilepic.jpg",
     "bio":" 주요 기술로는 Oracle, REACT, VUE3, Java, JSP, iBATIS, Maria DB, Spring Boot, PostgreSQL, Oracle DB 등이 있습니다. 팀원들과 협업하여 문제를 해결하고 새로운 기술을 학습하는 것을 즐깁니다. 업계에서 인정받는 프로젝트 경험으로 소통 능력과 문제 해결 능력을 갖췄습니다. 성실하고 책임감이 강한 저는 항상 최선을 다해 일을 처리하고 성과를 이루어냅니다. 기술력을 끊임없이 향상시키며 항상 도전하는 자세로 업무에 임하고 있습니다. 협업을 통해 팀의 목표를 달성하고, 성공적인 프로젝트를 위해 최선을 다할 것을 약속드립니다.",
@@ -10,7 +10,7 @@
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"주소 : 서울시 송파구 거여동",
+      "street":"서울시 송파구 거여동",
       "city":"",
       "state":"",
       "zip": ""

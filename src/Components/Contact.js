@@ -74,7 +74,7 @@ class Contact extends Component {
     if (messageStatus === 'success') {
         return (
             <div id="message-success" style={{ display: 'block' }}>
-                <i className="fa fa-check"></i>Your message was sent, thank thank you!
+                <i className="fa fa-check"></i>메일전송이 완료되었습니다.
                 <br />
             </div>
         );
@@ -82,7 +82,7 @@ class Contact extends Component {
         // 실패 시 console.error에 출력된 상세 오류를 확인해야 합니다.
         return (
             <div id="message-warning" style={{ display: 'block' }}> 
-                Error! Please check console for details.
+                메일전송이 실패했습니다.
             </div>
         );
     }
@@ -91,7 +91,7 @@ class Contact extends Component {
         <>
             <div id="message-warning" style={{ display: 'none' }}> Error boy</div>
             <div id="message-success" style={{ display: 'none' }}>
-                <i className="fa fa-check"></i>Your message was sent, thank you!
+                <i className="fa fa-check"></i>메일전송이 완료되었습니다.
                 <br />
             </div>
         </>
@@ -216,9 +216,9 @@ class Contact extends Component {
               <div className="widget widget_contact">
                 <h4>Name & Address</h4>
                 <p className="address">
-                  {name}
+                  이름 : {name}
                   <br />
-                  {street} 
+                  주소 : {street} 
                   <br />
                   {city}
                   <br />
